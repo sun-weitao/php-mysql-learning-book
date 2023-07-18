@@ -1,4 +1,4 @@
-#start application
+## start application
 
 ```
 php -S localhost:8000
